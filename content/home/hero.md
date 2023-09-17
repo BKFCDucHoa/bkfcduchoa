@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Đức Hòa Of Things"
+title = "BKFC THPT Đức Hoà"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "logo.png"

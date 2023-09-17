@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Hướng dẫn dành cho thành viên của Đức Hòa Of Things
+linktitle: Hướng dẫn dành cho thành viên của BKFC THPT Đức Hòa
 summary: Hướng dẫn các bạn cài đặt các công cụ, và cách để đăng bài, cũng như nhiều mẹo vặt hay ho cho bài viết của bạn.
 weight: 1
 
