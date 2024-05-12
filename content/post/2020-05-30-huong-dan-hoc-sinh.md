@@ -30,7 +30,7 @@ projects: []
 
 Trang được thiết kê với giao diện khá đơn giản. Tại [Trang chủ](/) các bạn sẽ thấy danh sách các bài viết, nhấn vào bài viết bất kì để đọc. Ngoài ra, với mỗi bạn viết, chúng mình đều thêm các **tags** thích hợp, ví dụ [_Toán_](/tag/toan/), [_Lý_](/tag/ly/), [_Hóa_](/tag/hoa/),... các bạn kiểm tra tại [đây](/tags)
 
-Trang có chức năng bình luận, đê có thể bình luận bạn có thể tạo tài khoản [Disqus](https://disqus.com/) hoặc đăng nhập facebook để tạo nhé!
+Trang có chức năng bình luận, bạn hãy tạo tài khoản [GitHub](https://github.com/) để có thể bình luận và đóng góp cho chúng mình nhé!
 
 Nếu cảm thấy bài viết hay hãy chia sẻ cũng như đánh giá để chúng mình cải thiện chất lượng hơn nha.
 

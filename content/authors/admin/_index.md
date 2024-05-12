@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Kim So
+title: BKFC - THPT Đức Hòa
 
 # Name pronunciation (optional)
-name_pronunciation: Kim So
+name_pronunciation: BKFC - THPT Đức Hòa
 
 # Full name (for SEO)
-first_name: Kim So
-last_name: Mã
+first_name: BKFC
+last_name: THPT Đức Hòa
 
 # Status emoji
 status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position/tagline
 role: Nhóm cộng tác BKFC - Tôi yêu Bách Khoa
@@ -109,9 +109,6 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-
-user_groups:
-  - Members
 ---
 
 BK FC - Tôi Yêu Bách Khoa là chương trình chính thức và duy nhất trực thuộc Văn phòng Tư vấn Tuyển sinh Trường Đại học Bách Khoa. 4 năm hoạt động là 4 năm BK FC không ngừng nổ lực và hoàn thiện.  
