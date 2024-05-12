@@ -1,5 +1,5 @@
 ---
-title: Bài viết gần đây
+title: Sự kiện
 cms_exclude: true
 
 # View.
