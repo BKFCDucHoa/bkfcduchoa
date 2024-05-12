@@ -648,7 +648,7 @@
       }
 
       $container.imagesLoaded(function () {
-        // Initialize Isotope after all images have loaded.
+        // Initialize Isotope after all media have loaded.
         $container.isotope({
           itemSelector: '.isotope-item',
           layoutMode: layout,
@@ -669,7 +669,7 @@
         // If window hash is set, scroll to hash.
         // Placing this within `imagesLoaded` prevents scrolling to the wrong location due to dynamic image loading
         // affecting page layout and position of the target anchor ID.
-        // Note: If there are multiple project widgets on a page, ideally only perform this once after images
+        // Note: If there are multiple project widgets on a page, ideally only perform this once after media
         // from *all* project widgets have finished loading.
         if (window.location.hash) {
           scrollToAnchor();
@@ -778,7 +778,7 @@
       if (window.location.hash == "#top") {
         window.location.hash = ""
       } else if (!$('.projects-container').length) {
-        // If URL contains a hash and there are no dynamically loaded images on the page,
+        // If URL contains a hash and there are no dynamically loaded media on the page,
         // immediately scroll to target ID taking into account responsive offset.
         // Otherwise, wait for `imagesLoaded()` to complete before scrolling to hash to prevent scrolling to wrong
         // location.
