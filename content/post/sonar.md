@@ -22,4 +22,4 @@ int main()
 
 ###### **Sonar** (Sound nagative of rada) sóng âm
 
-![](/img/uploads/h1a.png)
+![](h1a.png)

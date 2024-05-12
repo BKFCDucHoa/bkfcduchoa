@@ -170,7 +170,8 @@ sections:
   - block: tag_cloud
     id: tags
     content:
-      title: Chủ để phổ biến
+      title: Từ khoá phổ biến
+      text: "[_Xem tất cả từ khoá_](/tags)"
     design:
       columns: '2'
   - block: people
